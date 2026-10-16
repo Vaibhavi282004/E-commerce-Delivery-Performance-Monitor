@@ -1,0 +1,16 @@
+# Real data (download from Kaggle yourself, do not commit)
+data/raw/
+
+# Generated files, recreated by the pipeline
+data/raw_sample/
+data/processed/
+reports/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Office temp files
+~$*
